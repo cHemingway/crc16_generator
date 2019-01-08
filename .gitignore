@@ -1,0 +1,5 @@
+*.exe
+*.exe.dSYM
+__pycache__/
+*.pyc
+crc_table.inc
